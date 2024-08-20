@@ -7,7 +7,7 @@ The codes and files are divided by course.
 ------------------------------------------------------------------------
 
 ## Laboratorio di informatica (2016): project in C language
-Management of a music playlist
+### Management of a music playlist
 
 Archives to create:
 - Tracks: ARTIST, TITLE, GENRE (pop, rock, metal, latin, R&B), STARS (from 0 to 5 stars)
@@ -101,4 +101,18 @@ while (at least one transaction changes cluster)
 end
 ```
 
+------------------------------------------------------------------------
+
+## Ingegneria del software (2017): project
+
+Goals
+- Increase, with reference to a museum structure, the number of visitors and their satisfaction as well as improving the hedonic experience.
+- Extend the concept of "visit" by creating new paths of use and eliminating the infrastructures and visiting aid devices usually used in museums, such as audio guides, info points, brouchures, etc.
+- Improve the hedonic experience connected to the actual visit to the museum through a low-cost multimedia audio guide, accessible via a common smartphone, interactive and updatable "on the fly" every time new finds are displayed.
+
+Reference scenario:
+- The case study represents a real need expressed by the following stakeholders:
+  - Archeological Museum of Durres
+  - University of Bari - Aldo Moro, as part of one of the various collaborative initiatives with the Albanian state
+  - Apulian IT Production District
 
