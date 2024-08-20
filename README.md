@@ -149,3 +149,11 @@ The requirements of the APP are reported below, in a timely manner:
 - R7: display of the sheet of a work of art starting from the scanning of the identifying QR Code.
 - R8: start of the speech synthesis of the information provided in the sheet of the work of art.
 - R9: selection and reproduction of any audio/video attached to the sheet.
+
+------------------------------------------------------------------------
+
+## Reti di calcolatori (2019): TCP and DNS exercise
+
+------------------------------------------------------------------------
+
+## Interazione uomo-macchina (2018): project
