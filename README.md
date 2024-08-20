@@ -27,12 +27,12 @@ Realizations of the structures seen in class, and the exercises/algorithms with 
 
 ------------------------------------------------------------------------
 
-# Metodi avanzati di programmazione (2018): K-means project :pick:
+## Metodi avanzati di programmazione (2018): K-means project :pick:
 Client-server system called 'K-Means". The server includes data mining capabilities for discovering data clusters. The client is a Java applet that allows you to take advantage of the remote discovery service and displays the knowledge (cluster) discovered.
 
 *******************************************************************************
 
-## Data mining
+### Data mining
 
 The purpose of data mining is the (semi)
 automatic extraction of knowledge hidden in large
@@ -59,7 +59,7 @@ identification of a chronology of associations (e.g. visit paths of a
 website).  
     …
 
-### Clustering
+#### Clustering
 
 Given:
   - a collection D of transactions, where each transaction is a vector of attribute-value pairs (item);  
@@ -71,7 +71,7 @@ The goal is:
 Such that:
   - Di (i=1,…,k) is a homogeneous segment (selection) of D.
 
-### Problems
+#### Problems
 
 1. How do I perform clustering?  
    - K-means.
@@ -82,7 +82,7 @@ Such that:
 3. How do I use clusters in real applications?  
    - Minimize the distance between a new transaction and the cluster representation to discover the cluster it belongs to.
 
-### k-means
+#### k-means
 ```
 Kmeans(D,k)-:clusterSet
 clusterSet: set of k segments Di : each
