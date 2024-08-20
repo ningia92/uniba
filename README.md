@@ -101,7 +101,7 @@ end
 
 ------------------------------------------------------------------------
 
-## Ingegneria del software (2017): project
+## Ingegneria del software (2017): museum of Durres project
 
 ### Goals:
 - Increase, with reference to a museum structure, the number of visitors and their satisfaction as well as improving the hedonic experience.
