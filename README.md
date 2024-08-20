@@ -6,7 +6,7 @@ The codes and files are divided by course.
 
 ------------------------------------------------------------------------
 
-## Laboratorio di informatica (2016): project
+## Laboratorio di informatica (2016): project in C language
 
 Management of a music playlist
 
@@ -22,4 +22,7 @@ Operations:
 5. Viewing songs sorted by stars
 
 ------------------------------------------------------------------------
+
+## Laboratorio di informatica (2016): exercises in C++ language
+
 
