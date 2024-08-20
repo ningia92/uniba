@@ -23,6 +23,6 @@ Operations:
 
 ------------------------------------------------------------------------
 
-## Laboratorio di informatica (2016): exercises in C++ language
+## Algoritmi e strutture dati (2018): exercises in C++ language
 
 
