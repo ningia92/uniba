@@ -1,0 +1,94 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa02cb31f7c4be351bea186bcb3612472"><param name="Name" value="add_del_track"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa02cb31f7c4be351bea186bcb3612472"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a82042f7892e4e029c88eb064a2616a28"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_b_r_a_n_o.html"><param name="Name" value="BRANO"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_b_r_a_n_o.html#ab8cbfbf5baa122baac2246d86175c34b"><param name="Name" value="campo"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="struct_b_r_a_n_o.html#ab8cbfbf5baa122baac2246d86175c34b"><param name="Name" value="campo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af4af161eb1742fa541676ce0e352e827"><param name="Name" value="carica_brani_memoria"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af4af161eb1742fa541676ce0e352e827"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#af4af161eb1742fa541676ce0e352e827"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a19650e890394252df2785ff0a1c8a78e"><param name="Name" value="conta_brani"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a19650e890394252df2785ff0a1c8a78e"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a19650e890394252df2785ff0a1c8a78e"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a82445de8319487230a3ea33bdaa3efa5"><param name="Name" value="conta_tracce"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a82445de8319487230a3ea33bdaa3efa5"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a7a4ec430ed88fcd32e5e63f61e96338d"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a94418b8d8888c21286f4b656c891cdb8"><param name="Name" value="crea_percorso"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a94418b8d8888c21286f4b656c891cdb8"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a94418b8d8888c21286f4b656c891cdb8"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa44ae95d5415a159ae08b1d2fe0ebf95"><param name="Name" value="delete_playlist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa44ae95d5415a159ae08b1d2fe0ebf95"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#ace3a89cc5317018a68729bac5891680e"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a942a7693db4c5f2716c985a6df365c79"><param name="Name" value="edit_playlist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a942a7693db4c5f2716c985a6df365c79"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a942a7693db4c5f2716c985a6df365c79"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a26eb105404da501156b3ca4196f96422"><param name="Name" value="estensione"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a84bfa4f468c6230ff7366c4ce3164c18"><param name="Name" value="new_playlist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a84bfa4f468c6230ff7366c4ce3164c18"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a84bfa4f468c6230ff7366c4ce3164c18"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a109e1f1af7ba2499c560d5936c7ded62"><param name="Name" value="percorso"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html"><param name="Name" value="playlist.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa02cb31f7c4be351bea186bcb3612472"><param name="Name" value="add_del_track"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af4af161eb1742fa541676ce0e352e827"><param name="Name" value="carica_brani_memoria"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a19650e890394252df2785ff0a1c8a78e"><param name="Name" value="conta_brani"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a82445de8319487230a3ea33bdaa3efa5"><param name="Name" value="conta_tracce"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a94418b8d8888c21286f4b656c891cdb8"><param name="Name" value="crea_percorso"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#aa44ae95d5415a159ae08b1d2fe0ebf95"><param name="Name" value="delete_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a942a7693db4c5f2716c985a6df365c79"><param name="Name" value="edit_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a26eb105404da501156b3ca4196f96422"><param name="Name" value="estensione"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a84bfa4f468c6230ff7366c4ce3164c18"><param name="Name" value="new_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a109e1f1af7ba2499c560d5936c7ded62"><param name="Name" value="percorso"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a61303bad66f242425570593dd8507996"><param name="Name" value="pulisci_percorso"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af33092864eab5eb0d6804c32df077ef0"><param name="Name" value="stampa_playlist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html"><param name="Name" value="playlist.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a82042f7892e4e029c88eb064a2616a28"><param name="Name" value="add_del_track"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#af4af161eb1742fa541676ce0e352e827"><param name="Name" value="carica_brani_memoria"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a19650e890394252df2785ff0a1c8a78e"><param name="Name" value="conta_brani"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a7a4ec430ed88fcd32e5e63f61e96338d"><param name="Name" value="conta_tracce"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a94418b8d8888c21286f4b656c891cdb8"><param name="Name" value="crea_percorso"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#ace3a89cc5317018a68729bac5891680e"><param name="Name" value="delete_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a942a7693db4c5f2716c985a6df365c79"><param name="Name" value="edit_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a84bfa4f468c6230ff7366c4ce3164c18"><param name="Name" value="new_playlist"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a61303bad66f242425570593dd8507996"><param name="Name" value="pulisci_percorso"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#af33092864eab5eb0d6804c32df077ef0"><param name="Name" value="stampa_playlist"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a61303bad66f242425570593dd8507996"><param name="Name" value="pulisci_percorso"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#a61303bad66f242425570593dd8507996"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#a61303bad66f242425570593dd8507996"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af33092864eab5eb0d6804c32df077ef0"><param name="Name" value="stampa_playlist"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8c.html#af33092864eab5eb0d6804c32df077ef0"><param name="Name" value="playlist.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="playlist_8h.html#af33092864eab5eb0d6804c32df077ef0"><param name="Name" value="playlist.h"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>

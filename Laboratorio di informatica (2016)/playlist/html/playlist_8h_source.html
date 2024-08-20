@@ -1,0 +1,72 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=9"/>
+<meta name="generator" content="Doxygen 1.8.11"/>
+<title>My Project:  File sorgente src/playlist.h</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr style="height: 56px;">
+  <td id="projectalign" style="padding-left: 0.5em;">
+   <div id="projectname">My Project
+   </div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Generato da Doxygen 1.8.11 -->
+  <div id="navrow1" class="tabs">
+    <ul class="tablist">
+      <li><a href="index.html"><span>Pagina&#160;Principale</span></a></li>
+      <li><a href="annotated.html"><span>Strutture&#160;dati</span></a></li>
+      <li class="current"><a href="files.html"><span>File</span></a></li>
+    </ul>
+  </div>
+  <div id="navrow2" class="tabs2">
+    <ul class="tablist">
+      <li><a href="files.html"><span>Elenco&#160;dei&#160;file</span></a></li>
+      <li><a href="globals.html"><span>Elementi&#160;globali</span></a></li>
+    </ul>
+  </div>
+<div id="nav-path" class="navpath">
+  <ul>
+<li class="navelem"><a class="el" href="dir_68267d1309a1af8e8297ef4c3efbcdba.html">src</a></li>  </ul>
+</div>
+</div><!-- top -->
+<div class="header">
+  <div class="headertitle">
+<div class="title">playlist.h</div>  </div>
+</div><!--header-->
+<div class="contents">
+<a href="playlist_8h.html">Vai alla documentazione di questo file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">/*</span></div><div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160;<span class="comment"> * playlist.h</span></div><div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment"> *</span></div><div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment"> *  Created on: 03 mag 2016</span></div><div class="line"><a name="l00005"></a><span class="lineno">    5</span>&#160;<span class="comment"> *      Author: robby</span></div><div class="line"><a name="l00006"></a><span class="lineno">    6</span>&#160;<span class="comment"> */</span></div><div class="line"><a name="l00007"></a><span class="lineno">    7</span>&#160;</div><div class="line"><a name="l00008"></a><span class="lineno">    8</span>&#160;<span class="preprocessor">#ifndef SRC_PLAYLIST_H_</span></div><div class="line"><a name="l00009"></a><span class="lineno">    9</span>&#160;<span class="preprocessor">#define SRC_PLAYLIST_H_</span></div><div class="line"><a name="l00010"></a><span class="lineno">   10</span>&#160;<span class="preprocessor">#include &lt;stdbool.h&gt;</span></div><div class="line"><a name="l00011"></a><span class="lineno">   11</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="brano_8h.html">brano.h</a>&quot;</span></div><div class="line"><a name="l00012"></a><span class="lineno">   12</span>&#160;</div><div class="line"><a name="l00013"></a><span class="lineno">   13</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#a84bfa4f468c6230ff7366c4ce3164c18">new_playlist</a>(<span class="keywordtype">char</span> nome[35]);</div><div class="line"><a name="l00014"></a><span class="lineno">   14</span>&#160;</div><div class="line"><a name="l00015"></a><span class="lineno">   15</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#a82042f7892e4e029c88eb064a2616a28">add_del_track</a>(<span class="keywordtype">int</span> a, <span class="keywordtype">char</span> nome[35],<span class="keywordtype">bool</span> flag);</div><div class="line"><a name="l00016"></a><span class="lineno">   16</span>&#160;</div><div class="line"><a name="l00017"></a><span class="lineno">   17</span>&#160;<span class="keywordtype">int</span> <a class="code" href="playlist_8h.html#a7a4ec430ed88fcd32e5e63f61e96338d">conta_tracce</a>(<span class="keywordtype">char</span> nome[35]);</div><div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160;</div><div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="keywordtype">int</span> <a class="code" href="playlist_8h.html#a19650e890394252df2785ff0a1c8a78e">conta_brani</a>();</div><div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;</div><div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#ace3a89cc5317018a68729bac5891680e">delete_playlist</a>(<span class="keywordtype">char</span> nome[35]);</div><div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160;</div><div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#a94418b8d8888c21286f4b656c891cdb8">crea_percorso</a>(<span class="keywordtype">char</span> nome[35]);</div><div class="line"><a name="l00024"></a><span class="lineno">   24</span>&#160;</div><div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#a61303bad66f242425570593dd8507996">pulisci_percorso</a>();</div><div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;</div><div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#af33092864eab5eb0d6804c32df077ef0">stampa_playlist</a>(<span class="keywordtype">char</span> nome_playlist[35]);</div><div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;</div><div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#a942a7693db4c5f2716c985a6df365c79">edit_playlist</a>(<span class="keywordtype">char</span> nome_playlist[35]);</div><div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;</div><div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;<span class="keywordtype">void</span> <a class="code" href="playlist_8h.html#af4af161eb1742fa541676ce0e352e827">carica_brani_memoria</a>(<a class="code" href="struct_b_r_a_n_o.html">BRANO</a> tracce[],<span class="keywordtype">char</span> nome_playlist [35]);</div><div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;</div><div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;<span class="preprocessor">#endif </span><span class="comment">/* SRC_PLAYLIST_H_ */</span><span class="preprocessor"></span></div><div class="ttc" id="playlist_8h_html_af4af161eb1742fa541676ce0e352e827"><div class="ttname"><a href="playlist_8h.html#af4af161eb1742fa541676ce0e352e827">carica_brani_memoria</a></div><div class="ttdeci">void carica_brani_memoria(BRANO tracce[], char nome_playlist[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00253">playlist.c:253</a></div></div>
+<div class="ttc" id="playlist_8h_html_a82042f7892e4e029c88eb064a2616a28"><div class="ttname"><a href="playlist_8h.html#a82042f7892e4e029c88eb064a2616a28">add_del_track</a></div><div class="ttdeci">void add_del_track(int a, char nome[35], bool flag)</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00111">playlist.c:111</a></div></div>
+<div class="ttc" id="brano_8h_html"><div class="ttname"><a href="brano_8h.html">brano.h</a></div></div>
+<div class="ttc" id="playlist_8h_html_a7a4ec430ed88fcd32e5e63f61e96338d"><div class="ttname"><a href="playlist_8h.html#a7a4ec430ed88fcd32e5e63f61e96338d">conta_tracce</a></div><div class="ttdeci">int conta_tracce(char nome[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00051">playlist.c:51</a></div></div>
+<div class="ttc" id="struct_b_r_a_n_o_html"><div class="ttname"><a href="struct_b_r_a_n_o.html">BRANO</a></div><div class="ttdef"><b>Definition:</b> <a href="brano_8h_source.html#l00011">brano.h:11</a></div></div>
+<div class="ttc" id="playlist_8h_html_a942a7693db4c5f2716c985a6df365c79"><div class="ttname"><a href="playlist_8h.html#a942a7693db4c5f2716c985a6df365c79">edit_playlist</a></div><div class="ttdeci">void edit_playlist(char nome_playlist[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00199">playlist.c:199</a></div></div>
+<div class="ttc" id="playlist_8h_html_a19650e890394252df2785ff0a1c8a78e"><div class="ttname"><a href="playlist_8h.html#a19650e890394252df2785ff0a1c8a78e">conta_brani</a></div><div class="ttdeci">int conta_brani()</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00029">playlist.c:29</a></div></div>
+<div class="ttc" id="playlist_8h_html_a84bfa4f468c6230ff7366c4ce3164c18"><div class="ttname"><a href="playlist_8h.html#a84bfa4f468c6230ff7366c4ce3164c18">new_playlist</a></div><div class="ttdeci">void new_playlist(char nome[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00072">playlist.c:72</a></div></div>
+<div class="ttc" id="playlist_8h_html_af33092864eab5eb0d6804c32df077ef0"><div class="ttname"><a href="playlist_8h.html#af33092864eab5eb0d6804c32df077ef0">stampa_playlist</a></div><div class="ttdeci">void stampa_playlist(char nome_playlist[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00159">playlist.c:159</a></div></div>
+<div class="ttc" id="playlist_8h_html_a94418b8d8888c21286f4b656c891cdb8"><div class="ttname"><a href="playlist_8h.html#a94418b8d8888c21286f4b656c891cdb8">crea_percorso</a></div><div class="ttdeci">void crea_percorso(char nome[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00018">playlist.c:18</a></div></div>
+<div class="ttc" id="playlist_8h_html_a61303bad66f242425570593dd8507996"><div class="ttname"><a href="playlist_8h.html#a61303bad66f242425570593dd8507996">pulisci_percorso</a></div><div class="ttdeci">void pulisci_percorso()</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00024">playlist.c:24</a></div></div>
+<div class="ttc" id="playlist_8h_html_ace3a89cc5317018a68729bac5891680e"><div class="ttname"><a href="playlist_8h.html#ace3a89cc5317018a68729bac5891680e">delete_playlist</a></div><div class="ttdeci">void delete_playlist(char nome[35])</div><div class="ttdef"><b>Definition:</b> <a href="playlist_8c_source.html#l00094">playlist.c:94</a></div></div>
+</div><!-- fragment --></div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Generato da &#160;<a href="http://www.doxygen.org/index.html">
+<img class="footer" src="doxygen.png" alt="doxygen"/>
+</a> 1.8.11
+</small></address>
+</body>
+</html>
