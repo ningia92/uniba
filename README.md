@@ -105,7 +105,7 @@ end
 
 ## Ingegneria del software (2017): project
 
-Goals
+Goals:
 - Increase, with reference to a museum structure, the number of visitors and their satisfaction as well as improving the hedonic experience.
 - Extend the concept of "visit" by creating new paths of use and eliminating the infrastructures and visiting aid devices usually used in museums, such as audio guides, info points, brouchures, etc.
 - Improve the hedonic experience connected to the actual visit to the museum through a low-cost multimedia audio guide, accessible via a common smartphone, interactive and updatable "on the fly" every time new finds are displayed.
@@ -115,4 +115,13 @@ Reference scenario:
   - Archeological Museum of Durres
   - University of Bari - Aldo Moro, as part of one of the various collaborative initiatives with the Albanian state
   - Apulian IT Production District
+ 
+********************************************************************
+
+The exhibit card:
+- The creation of a software is planned that allows:
+  - the museum staff to easily catalogue each exhibit and describe it while associating it with the information that is intended to be displayed to the visitor;
+  - the visitor to enjoy it with the simplicity and immediacy that modern technology allows.
+- The software must allow the museum staff to create an "exhibit card" for each new exhibit to be displayed:
+  - text description, any other multimedia information (photos, videos, audio files, etc.) a unique identification code and a QR-Code generated during the creation of the card that will subsequently allow the exhibit card to be recalled in real time through an APP that will be created specifically for this purpose, displaying and reproducing all the contents.
 
