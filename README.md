@@ -14,9 +14,7 @@ The codes and files are divided by course.
 
 ## [Ingegneria del software (2017): museum of Durres project](https://github.com/ningia92/uniba/tree/main/Ingegneria%20del%20software%20(2017))
 
-## Reti di calcolatori (2019): TCP and DNS exercise
-
-------------------------------------------------------------------------
+## [Reti di calcolatori (2019): TCP and DNS exercise](https://github.com/ningia92/uniba/tree/main/Reti%20di%20calcolatori%20(2019))
 
 ## Interazione uomo-macchina (2018): case study on visualizations for usability studies
 
