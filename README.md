@@ -8,12 +8,7 @@ The codes and files are divided by course.
 
 ## [Laboratorio di informatica (2016): project in C language](https://github.com/ningia92/uniba/tree/main/Laboratorio%20di%20informatica%20(2016))
 
-------------------------------------------------------------------------
-
-## Algoritmi e strutture dati (2018): exercises in C++ language
-Realizations of the structures seen in class, and the exercises/algorithms with relative execution tests
-
-------------------------------------------------------------------------
+## [Algoritmi e strutture dati (2018): exercises in C++ language](https://github.com/ningia92/uniba/tree/main/Algoritmi%20e%20strutture%20dati%20(2018))
 
 ## Metodi avanzati di programmazione (2018): K-means project :pick:
 Client-server system called 'K-Means". The server includes data mining capabilities for discovering data clusters. The client is a Java applet that allows you to take advantage of the remote discovery service and displays the knowledge (cluster) discovered.
